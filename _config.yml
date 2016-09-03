@@ -1,4 +1,3 @@
-layout_spectrum: 0.948916716966778
 typography_spectrum: 0.08036144799552858
 color:
   brandStrength: 0.021746498765423894
@@ -11,4 +10,8 @@ color:
     - '#342522'
     - '#A43B2E'
     - '#E4A68D'
+layout_spectrum: 0.948916716966778
+author:
+  name: Cameron Barnett
+  email: cameron@redcloud.com
 name: RED CLOUD PRODUCTIONS
